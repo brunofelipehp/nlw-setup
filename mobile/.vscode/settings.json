@@ -1,0 +1,8 @@
+{
+  "editor.hideCursorInOverviewRuler": false,
+  "editor.inlayHints.padding": false,
+  "editor.suggest.showStatusBar": true,
+  "workbench.statusBar.visible": true,
+  "zenMode.hideStatusBar": true,
+  "problems.showCurrentInStatus": true
+}
